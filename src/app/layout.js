@@ -1,8 +1,8 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import ClientLayout from "@/components/ClientLayout";
+import ClientLayout from "@/components/Utility/ClientLayout";
 
-import BootstrapClient from "@/components/BootstrapClient";
+import BootstrapClient from "@/components/Utility/BootstrapClient";
 import Navbar from "@/components/Navigation/Navbar";
 import Footer from "@/components/Footer/Footer";
 
